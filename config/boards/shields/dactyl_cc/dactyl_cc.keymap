@@ -31,7 +31,7 @@
     &kp TAB   &kp Q     &kp W    &kp E     &kp R     &kp T                              &kp Y     &kp U     &kp I     &kp O     &kp P    &kp BSLH
     &kp CAPS  &kp A     &kp S    &kp D     &kp F     &kp G                              &kp H     &kp J     &kp K     &kp L     &kp SEMI &kp SQT
     &kp LSHFT &kp Z     &kp X    &kp C     &kp V     &kp B                              &kp N     &kp M     &kp COMMA &kp DOT   &kp FSLH &kp RSHFT
-              &kp GRAVE &kp BSLH &kp LEFT  &kp RIGHT                                              &kp UP  &kp DOWN    &kp LBKT  &kp RBKT
+              &kp GRAVE &kp BSLH &kp LEFT  &kp RIGHT                                              &kp UP    &kp DOWN  &kp LBKT  &kp RBKT
                                                      &kp LCTRL  &kp LALT   &kp LGUI  &kp RCTRL
                                                                 &kp HOME   &mo RAISE
                                             &kp BSPC  &kp DEL   &kp END    &mo LOWER   &kp RET   &kp SPACE
